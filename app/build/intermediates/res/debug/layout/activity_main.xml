@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView" >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:minWidth="300dp"
+        android:minHeight="300dp"
+        android:longClickable="false"
+        android:layout_alignTop="@+id/scrollView"
+        android:layout_centerHorizontal="true">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Calcular ETA"
+        android:onClick="CETA"
+        android:id="@+id/btnCalcALT"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Reglaje de Altimetro"
+        android:id="@+id/btnRegAlt"
+        android:layout_below="@+id/btnCalcALT"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:onClick="REGALT" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Calcular TAS"
+            android:id="@+id/btnTAS"
+            android:layout_marginTop="20dp"
+            android:onClick="CTAS" />
+
+    </LinearLayout></ScrollView>
+</RelativeLayout>
+<!-- From: file:/C:/Users/Administrador/Dropbox/Android/Proyectos/FSUtils/app/src/main/res/layout/activity_main.xml -->

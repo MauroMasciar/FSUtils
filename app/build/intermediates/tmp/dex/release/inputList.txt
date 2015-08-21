@@ -1,0 +1,5 @@
+C:\Users\Administrador\Dropbox\Android\Proyectos\FSUtils\app\build\intermediates\classes\release
+C:\Users\Administrador\Dropbox\Android\Proyectos\FSUtils\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-fa12292eeda0211d50495dee491b1f89148594e3.jar
+C:\Users\Administrador\Dropbox\Android\Proyectos\FSUtils\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-78e2520b4782f441215adf02bd637ecaf06f47ad.jar
+C:\Users\Administrador\Dropbox\Android\Proyectos\FSUtils\app\build\intermediates\pre-dexed\release\classes-4b832efb99e5e31f946f7fe95b808925ba593dca.jar
+C:\Users\Administrador\Dropbox\Android\Proyectos\FSUtils\app\build\intermediates\pre-dexed\release\classes-d3a180a2c28d08e08121662746c1ed9115b94807.jar

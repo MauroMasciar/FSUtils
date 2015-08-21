@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FSUtils</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_ceta">Calcular ETA</string>
+    <string name="title_activity_reg_alt">Reglaje de Altimetro</string>
+    <string name="title_activity_ctas">Calcular TAS</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

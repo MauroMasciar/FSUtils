@@ -1,0 +1,5 @@
+C:\Users\Administrador\Dropbox\Proyectos\FSUtils\app\build\intermediates\classes\debug
+C:\Users\Administrador\Dropbox\Proyectos\FSUtils\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-fa12292eeda0211d50495dee491b1f89148594e3.jar
+C:\Users\Administrador\Dropbox\Proyectos\FSUtils\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-afc70e14b2a5768ac2c55bf3bec858e7f654fb91.jar
+C:\Users\Administrador\Dropbox\Proyectos\FSUtils\app\build\intermediates\pre-dexed\debug\classes-e449fdd2e0a63099e962f4af9a11870458b2e97b.jar
+C:\Users\Administrador\Dropbox\Proyectos\FSUtils\app\build\intermediates\pre-dexed\debug\classes-c6d53c5f9f7b18b938d56155c868426714cf67f3.jar
